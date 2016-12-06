@@ -22,6 +22,6 @@ apm install ficus-dark-syntax
 
 ## Further information
 
-Project page: [http://www.protesilaos.com/ficus](http://www.protesilaos.com/ficus)
+Project page: [https://protesilaos.com/ficus](https://protesilaos.com/ficus)
 
 Ficus light version: [https://atom.io/themes/ficus-syntax](https://atom.io/themes/ficus-syntax)
